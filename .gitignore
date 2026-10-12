@@ -211,3 +211,4 @@ __marimo__/
 !README.md
 old_stuff/
 *.npy
+paper_outputs/
